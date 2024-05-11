@@ -1,5 +1,5 @@
 
-import table_list from "./Table";
+import table_list from "./table";
 function App(){
   
   const ws = new WebSocket("ws://localhost:3000");
